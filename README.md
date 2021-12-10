@@ -1,5 +1,5 @@
 <p align = "center">
-<img width="700" alt="presentaciónGit" src="https://user-images.githubusercontent.com/50429563/145638444-9cfbf264-92a3-473c-8d76-3c43f02ec40d.png">
+<img width="800" alt="presentaciónGit" src="https://user-images.githubusercontent.com/50429563/145638444-9cfbf264-92a3-473c-8d76-3c43f02ec40d.png">
 </p>
 
 ## ✨Tools and technologies 💻
