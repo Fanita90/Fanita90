@@ -26,6 +26,4 @@
 
 ## 📈 GitHub Stats 📊
 
-<p align = "center">
-![Fany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanita90&show_icons=true&theme=bear)]
-</p>
+![Fany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanita90&show_icons=true&theme=bear)
