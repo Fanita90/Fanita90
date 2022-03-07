@@ -26,4 +26,4 @@
 
 ## 📈 GitHub Stats 📊
 
-![Fany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanita90&show_icons=true&theme=bear)
+![Fany's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanita90&show_icons=true&theme=bear)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Fanita90?tab=repositories)
